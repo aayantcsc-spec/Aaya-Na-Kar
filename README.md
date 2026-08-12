@@ -115,11 +115,6 @@ The project uses Spotify's official embedded player to allow visitors to listen 
 MBC/
 │
 ├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   └── fonts/
 │
 └── README.md
 ```
